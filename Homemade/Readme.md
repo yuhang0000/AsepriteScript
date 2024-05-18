@@ -6,7 +6,7 @@
 嗨嗨，我完全重新做了個迷你計時器腳本，
 這個想法來自於： [[Script] Timer script](https://community.aseprite.org/t/script-timer-script/2594)  
 但那個腳本并不能實時顯示時鐘，所以我打算自己重置一把：  
-  ![Demo 演示|675x450, 75%](https://community.aseprite.org/uploads/default/original/3X/a/0/a041936904bdb789984e830bfbc227621432b315.gif)
+  ![Demo 演示|675x450, 75%](https://github.com/yuhang0000/AsepriteScript/blob/main/Images/2024/minitimer.gif)
 
 下載鏈接放在這裏：  
 https://github.com/yuhang0000/AsepriteScript/blob/main/Homemade/minitimer/MiniTimer.lua
