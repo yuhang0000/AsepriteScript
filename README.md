@@ -3,6 +3,6 @@
 
 ## 索引  
 ### 自製的
-•[迷你計時器/Mini Timer](./Homemade/Readme.md#迷你計時器)  
+* [迷你計時器/Mini Timer](./Homemade/Readme.md#迷你計時器)  
 ### 漢化的  
-•
+*
