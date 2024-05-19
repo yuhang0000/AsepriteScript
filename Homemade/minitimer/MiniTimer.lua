@@ -40,6 +40,7 @@ local timer1 = Timer
 	  id = "stopbutton",
 		text = "■",
 		onclick = 	function() 
+            	timer1:stop()
 		TimerBar:modify {id = "stopbutton",visible = false}
 		TimerBar:modify {id = "startbutton",visible = false}
 		TimerBar:modify {id = "Hidebutton",visible = false}
@@ -63,6 +64,7 @@ local timer1 = Timer
 		text = "X",
 		visible = false,
 		onclick = function() 
+            	timer1:start()
 		TimerBar:modify {id = "stopbutton",visible = true}
 		TimerBar:modify {id = "startbutton",visible = true,focus = true}
 		TimerBar:modify {id = "Hidebutton",visible = true}
