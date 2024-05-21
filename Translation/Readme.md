@@ -1,14 +1,20 @@
 這裡存放著一些漢化的 Aseprite 腳本
 ================================
 * ### 記錄更多的詳細信息
->Time Tracking v1.0.2
+>Time Tracking v1.0.2  
+>原作者：Kacper Woźniak  
+>原始鏈接：[https://thkaspar.itch.io/time-tracking-for-aseprite](https://thkaspar.itch.io/time-tracking-for-aseprite)
 * ### 更多的圖層效果  
->FX v3.0.0
+>FX v3.0.0  
+>原作者：Kacper Woźniak  
+>原始鏈接：[https://thkaspar.itch.io/fx](https://thkaspar.itch.io/fx)
 * ### 快照記錄工具  
 >Automatic Snapshot  
 >Command Palette  
 >Open Time Lapse  
->Take Snapshot
+>Take Snapshot  
+>原作者：sprngr
+>原始鏈接：[https://github.com/sprngr/aseprite-record](https://github.com/sprngr/aseprite-record)
 * ### 导入图像到新图层
 >Import images as layers
 * ### 调色样本着色器
