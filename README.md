@@ -7,7 +7,7 @@
 ### 自製的
 * [迷你計時器/Mini Timer](./Homemade/Readme.md#迷你計時器)  
 ### 漢化的  
-* [漢化列表](./Translation#readme)
+* [腳本漢化列表](./Translation#readme)
 
 ### 注意：
 此項目尊選 GPLv3 和 MIT 協議：
