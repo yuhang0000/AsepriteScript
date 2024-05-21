@@ -1,5 +1,5 @@
 # AsepriteScript
-专门存放 Aseprite 的脚本  
+专门在這裏存放 Aseprite 的脚本  
 ---
 ![License](https://img.shields.io/badge/License-GPL_v3-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg) 
 
@@ -19,7 +19,7 @@
 ### 一些事項：
 每個漢化脚本都會另附一條它的原始鏈接，你可以在那裏找到原作者。  
 若要轉發和分享此文件，請附上此頁面的原始鏈接。    
-如有 BUG 的話，請提交到 `Issues` 裏通知我。  
+如有 BUG 的話，請提交到 [Issues](https://github.com/yuhang0000/AsepriteScript/issues) 裏通知我。  
 這項脚本適配于 Aseprite v1.3.6 版本，不太確定 v1.2.x 版本能不能用，也許您可以先試試??
 
 ### 如何安裝：
