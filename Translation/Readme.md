@@ -5,9 +5,9 @@
 * ### 更多的圖層效果  
 >FX v3.0.0
 * ### 快照記錄工具  
->Automatic Snapshot
->Command Palette
->Open Time Lapse
+>Automatic Snapshot  
+>Command Palette  
+>Open Time Lapse  
 >Take Snapshot
 * ### 导入图像到新图层
 >Import images as layers
