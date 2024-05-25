@@ -1,5 +1,5 @@
 # AsepriteScript
-专门在這裏存放 Aseprite 的脚本  
+专门在這裏存放一托拉庫的 Aseprite 脚本  
 ---
 ![License](https://img.shields.io/badge/License-GPL_v3-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg) 
 
