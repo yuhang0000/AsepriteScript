@@ -29,8 +29,5 @@
 ### 免責聲明：
 如果這些脚本對你的操縱設備以及文檔造成不可逆轉的情況，本作者**概不承擔任何責任**，請熟知這一點。  
 
-### 訪問流量：
-[![Stargazers over time](https://starchart.cc/yuhang0000/AsepriteScript.svg)](https://starchart.cc/yuhang0000/AsepriteScript)
-
 2024-5-21-No.1  
 By:yuhang0000
